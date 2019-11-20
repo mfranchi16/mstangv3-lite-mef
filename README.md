@@ -1,0 +1,1 @@
+# mstangv3-lite-mef
